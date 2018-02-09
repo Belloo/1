@@ -42,7 +42,7 @@
             }
 
         }
-        @-webkit-keyframes  {
+        @-webkit-keyframes mymovie {
             0%{
                 lefe:0px;
                 top: 0px;
